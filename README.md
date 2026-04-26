@@ -1,4 +1,4 @@
-# Rama Dwi Putra Agustio - MasRomo
+# MasRomo
 
 Business Management Student @ ITB ASIA Malang  
 Expected Graduation: August 2026 | GPA: 3.39
