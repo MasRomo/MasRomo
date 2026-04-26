@@ -1,7 +1,7 @@
 # MasRomo
 
 Business Management Student @ ITB ASIA Malang  
-Expected Graduation: August 2026 | GPA: 3.39
+Expected Graduation: August 2026 | CGPA: 3.39
 
 I work across business operations, AI-assisted strategy,  
 and academic research. Based in Malang, East Java.
@@ -40,10 +40,10 @@ Target completion: August 2026.
 ### Background
 
 - Web3 & Community: Token listing coordination and international  
-  community management, 5+ years (since 2020)
+  community management, 3+ years (since 2020)
 - Operations: F&B management and barista work since 2017
 - Languages: Native Javanese/Malangan | Professional English |  
-  Active Mandarin (HSK track)
+  Active Mandarin (HSK1 track)
 
 ---
 
