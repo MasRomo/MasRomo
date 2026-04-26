@@ -42,7 +42,7 @@ Target completion: August 2026.
 - Web3 & Community: Token listing coordination and international  
   community management, 3+ years (since 2020)
 - Operations: F&B management and barista work since 2017
-- Languages: Native Javanese/Malangan | Professional English |  
+- Languages: Native Javanese/Malangan & Bahasa Indonesia | Professional English |  
   Active Mandarin (HSK1 track)
 
 ---
